@@ -15,10 +15,10 @@ This game has a single player and duel players mde game with really simple objec
     For duel players, who finshes the game first.
 
 As visible in the Snake&Ladder_Visual.png image, the game consists of 14 floors and it counts the total points collected during the game play. Negative points are also allowed in the game. Location of all floors are similar to that in the Snake&Ladder_Visual.png image.
-There are different types of floors: 
-    1. empty floor
-    2. snake floor
-    3. ladder floor
+There are different types of floors
+    \n1. empty floor
+    \n2. snake floor
+    \n3. ladder floor
 
 There are two types of snake floors:
     1. normal
