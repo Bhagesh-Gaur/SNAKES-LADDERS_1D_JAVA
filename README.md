@@ -1,6 +1,8 @@
 # SNAKES & LADDERS 1D JAVA
 A command-line implementation of the 1D Snakes and Ladders game using Java and OOPS concepts.
 
+### This Snakes and Ladders game has been developed in java using object oriented programming concepts such as data encapsulation, abstraction, class relationships, inheritance, polymorphism, etc.
+
 ##### Note: Final updated project files are in "Project Files-Updated" folder.
 
 ## How to run??
@@ -41,4 +43,3 @@ Whenever a player moves to any floor, he/she has to jump on the floor to know th
           
 The game has a special dice that has only two faces, 1 and 2. When a dice is thrown, it returns a randomly chosen face value. The game is started only when the player gets 1 on the Dice.
 
-### This Snakes and Ladders game has been developed in java using object oriented programming concepts such as data encapsulation, abstraction, class relationships, inheritance, polymorphism, etc.
